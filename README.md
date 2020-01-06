@@ -7,6 +7,38 @@ This tutorial is adapted from Allen Carrol's ["Getting started with ArcGIS Story
 
 # Table of Contents
 
+- [Signing in to ArcGIS StoryMaps](#signing-in-to-arcgis-storymaps)
+- [Creating a New ArcGIS StoryMap](#creating-a-new-arcgis-storymap)
+  * [Select a Cover Option](#select-a-cover-option)
+  * [Customize Your Design](#customize-your-design)
+- [Adding Content to Your StoryMap](#adding-content-to-your-storymap)
+  * [Text Options](#text-options)
+    * [Paragraph](#paragraph)
+    * [Heading](#heading)
+    * [Subheading](#subheading)
+    * [Bulleted List](#bulleted-list)
+    * [Numbered List](#numbered-list)
+    * [Quote](#quote)
+  * [Media Options](#media-options)
+    * [Image](#image)
+    * [Map](#map)
+    * [Video](#video)
+    * [Embed](#embed)
+  * [Formatting Options](#formatting-options)
+    * [Button](#button)
+    * [Separator](#separator)
+    * [Sidecar](#sidecar)
+    * [Slideshow](#slideshow)
+- [Reordering or Reorganizing Content](#reordering-or-reorganizing-content)
+- [Additional Options for Customizing Maps](#additional-options-for-customizing-maps)
+  * [Existing ArcGIS Online Maps](#existing-arcgis-online-maps)
+  * [Express Maps](#express-maps)
+- [Publishing and Sharing Your StoryMap](#publishing-and-sharing-your-storymap)
+  * [Saving Your StoryMap](#saving-your-storymap)
+  * [Publishing Your StoryMap](#publishing-your-storymap)
+  * [Sharing Your StoryMap](#sharing-your-storymap)
+- [Additional Resources and Next Steps](#additional-resources)
+
 # Signing in to ArcGIS StoryMaps
 
 Navigate to URL. https://storymaps.arcgis.com/
@@ -15,7 +47,7 @@ Sign in using the enterprise logins.
 
 Same username and password as ArcGIS Online
 
-# Create a New ArcGIS StoryMap
+# Creating a New ArcGIS StoryMap
 
 ## Select a Cover Option
 
@@ -59,7 +91,7 @@ Same username and password as ArcGIS Online
 
 <blockquote> What's the difference between a sidecar and a slideshow?</blockquote>
 
-# Re-ordering or Reorganizing Content
+# Reordering or Reorganizing Content
 
 # Additional Options for Customizing Maps
 
@@ -79,7 +111,7 @@ StoryMaps autosaves.
 
 ## Sharing Your StoryMap
 
-# Additional Resources and Next Steps
+# Additional Resources
 
 - Greyson Harris, ["Four Ways to Tell a Story With Place,"](https://storymaps.arcgis.com/stories/88bd5855dc3847769f2c6847b15af64e) *ArcGIS Blog* (26 November 2019)
 
