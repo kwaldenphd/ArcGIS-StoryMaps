@@ -35,81 +35,269 @@ This tutorial is adapted from Allen Carrol's ["Getting started with ArcGIS Story
   * [Express Maps](#express-maps)
 - [Publishing and Sharing Your StoryMap](#publishing-and-sharing-your-storymap)
   * [Saving Your StoryMap](#saving-your-storymap)
-  * [Publishing Your StoryMap](#publishing-your-storymap)
-  * [Sharing Your StoryMap](#sharing-your-storymap)
+  * [Publishing and Sharing Your StoryMap](#publishing-and-sharing-your-storymap)
 - [Additional Resources and Next Steps](#additional-resources)
+  * [ArcGIS StoryMaps Resources](#arcgis-storymaps-resources)
+  * [Finding Rights-Free Media Online](#finding-rights-free-media-online)
+  
 
 # Signing in to ArcGIS StoryMaps
 
-Navigate to URL. https://storymaps.arcgis.com/
+1-Open Firefox or Chrome and navigate to <a href="https://storymaps.arcgis.com/">https://storymaps.arcgis.com/</a> in a web browser.
 
-Sign in using the enterprise logins.
+2-Use the username and password you created after accepting the invitation to sign in. This is the same username and password you used to log in to ArcGIS Online in the last lab.
 
-Same username and password as ArcGIS Online
+3- Click the blue <strong>Sign In</strong> button in the middle of the page.
 
 # Creating a New ArcGIS StoryMap
 
+[IMAGE]
+
+Once logged in, you are on the My Stories landing page.
+
+Click the Create new story option at the center of the page. There is also a Create new story button in the top-right hand corner of the page.
+
+[IMAGE]
+
+The "Launching story builder' page opens the story builder environment.
+
 ## Select a Cover Option
+
+[IMAGE]
+
+The first step in creating a StoryMap is to create a cover.
+
+Use the prompts on the screen to add a title and subtitle. 
+
+Add your name to the by-line.
+
+Click the "Add image" or "Add video" buttons to add multimedia content from your computer.
 
 ## Customize Your Design
 
+[IMAGE]
+
+Click the "Design" button in the top menu bar (on the right-hand side next to Preview and Publish).
+
+[IMAGE]
+
+The "Design" button opens up options for customizing your StoryMap's format, display, color, and font.
+
+[IMAGE]
+
+Explore the four different theme options to see what might be the best fit for your project.
+
+
+[IMAGE]
+
+In the Design panel, you can also customize the accent color and font pairings.
+
+<blockquote>Learn more about using the Design Panel in Hannah Wilber's <a href="https://www.esri.com/arcgis-blog/products/arcgis-storymaps/sharing-collaboration/create-a-standout-story-with-arcgis-storymaps-design-panel/>"Create a standout story with ArcGIS StoryMaps' design panel"</a> blog post.</blockquote>
+
+
+[IMAGE]
+
+You can also change the cover layout. 
+
+[IMAGE]
+
+Choose between the full, side-by-side, and minimal options for the cover media.
+
+[IMAGE]
+
+Click on the gear icon (located in the top center of the image) to adjust the image properties.
+
+Within Image Properties, you can change the focal point for the image, which is useful when working with images that are larger than the StoryMaps display window.
+
+You can also add alternative text within Image Properties. Alternate text describes your media content for users with visual impairments who use a screen reader or other kinds of adaptive/assistive technologies.
+
+<blockquote>Alternate text for media options is essential to make sure your content is available to the widest range of users. Learn more about alt text at <a href="https://www.w3.org/WAI/tutorials/images/">the Web Accessibility Initiative</a>.</blockquote>
+
+<blockquote>Check out the tutorial video <a href="https://youtu.be/bJ40v5lxy0A">"Adding Alternative Text in ArcGIS StoryMaps"</a> from ArcGIS to learn more about alt text and accessibility in ArcGIS StoryMaps.</blockquote>
+
 # Adding Content to Your StoryMap
+
+Click on the plus sign below the cover section to open up a menu of options for building in StoryMaps.
+
+StoryMaps uses a block palette to combine media, text, and other kinds of interactive content.
+
+[VIDEO]
+
+This short video previews the different blocks available in the block palette.
 
 ## Text Options
 
+[IMAGE]
+
+When editing text in one of the text block options, you can add formatting (bold, italics), insert a link to another URL, or switch to another type of text block from the palette.
+
 ### Paragraph
+
+A block of text with no additional formatting.
 
 ### Heading
 
+A section heading or title. Text is bolded and in a larger font size than Paragraph.
+
 ### Subheading
+
+A section sub-heading or sub-title. Text is bolded. Font size is larger than Paragraph and smaller than Heading.
 
 ### Bulleted List
 
-### Numbered list
+An unordered list of content that uses bullet points.
+
+### Numbered List
+
+An ordered list of content that uses numerals.
 
 ### Quote
 
+Similar to the `<blockquote>` tag in HTML. Indents and italicizes text.
+
 ## Media Options
+
+[IMAGE]
+
+When adding media content, these blocks give you additional formatting options. 
+
+The gear symbol allows you to customize the image focal point and add alt text.
+
+<blockquote>Check out the tutorial video <a href="https://youtu.be/bJ40v5lxy0A">"Adding Alternative Text in ArcGIS StoryMaps"</a> from ArcGIS to learn more about alt text and accessibility in ArcGIS StoryMaps.</blockquote>
+
+The four alignment options allow you to customize how the image is displayed in your StoryMap.
+
+The trash can icon deletes your existing image and allows you to select new content.
+
+When you add media content, the block automatically includes a place for a caption. Captions are optional--the "Add a caption" placeholder text won't be shown in the public story.
 
 ### Image
 
+Upload an image from your computer or link to an image that exists online.
+
 ### Map
+
+Bring in a map you have already created in ArcGIS Online, or create an Express Map from within the StoryMaps builder. More details on maps are provided in the [Additional Options for Customizing Maps](#additional-options-for-customizing-maps) section of this tutorial.
 
 ### Video
 
+Upload a video from your computer or link to an online video. More details on maps is provided in a later section of this tutorial.
+
 ### Embed
+
+[IMAGE]
+
+[IMAGE]
+
+Embed content using a link or `<iframe>` embed code. 
+
+<blockquote>To learn more about embedding content in your StoryMap, check out the <a href="https://storymaps.arcgis.com/stories/b299f08094ae4a18891b1d1de6118764">"Embedding content in ArcGIS StoryMaps"</a> blog post.</blockquote>
 
 ## Formatting Options
 
 ### Button
 
+A rectangular button icon that can link to external content.
+
 ### Separator
+
+A solid line separator that can help mark transitions or shifts in your StoryMap.
 
 ### Sidecar
 
+[IMAGE]
+
+[IMAGE]
+
+A split-screen layout within your StoryMap that inclues a panel with text that scrolls and a panel with media that remains stationary. 
+
+[IMAGE]
+
+You can add multiple slides to a sidecar. 
+
+<blockquote>Learn more through the <a href="https://doc.arcgis.com/en/arcgis-storymaps/author-and-share/add-sidecars.htm">"Add sidecars"</a> page on the ArcGIS website.</blockquote>
+
 ### Slideshow
 
-<blockquote> What's the difference between a sidecar and a slideshow?</blockquote>
+[IMAGE]
+
+[IMAGE]
+
+A series of slides (similar to a Power Point or Google Slides presentation) that allows users to navigate laterally through the slides. 
+
+[IMAGE]
+
+[IMAGE]
+
+You can add multiple slides to a slideshow.
+
+<blockquote>Learn more through the <a href="<blockquote>Learn more through the <a href="https://doc.arcgis.com/en/arcgis-storymaps/author-and-share/add-sidecars.htm">"Add slideshows"</a> page on the ArcGIS website.</blockquote>">
+
+<blockquote> What's the difference between a sidecar and a slideshow? A sidecar includes the split-screen layout with text and media. In a slide show, the background media fills the entire slide. Check out the tutorial video <a href="https://youtu.be/SRjpZote_OU">"Choosing Between Sidecar and Slideshow in ArcGIS StoryMaps"</a> from ArcGIS to learn more about these two options.</blockquote>
 
 # Reordering or Reorganizing Content
+
+As you start to create blocks, you may want to reorganize or reorder your content.
+
+[IMAGE]
+
+[IMAGE]
+
+The grid icon on the left-hand side of each block gives you the option to drag and drop blocks to re-order your content.
 
 # Additional Options for Customizing Maps
 
 ## Existing ArcGIS Online Maps
 
+[IMAGE]
+
+Selecting the Map block opens up the Add a map window.
+
+You can select a web map you have already created in ArcGIS Online. 
+
+You can also select maps others have created and shared with your organization or the public ArcGIS Online user community. 
+
 ## Express Maps
+
+As [described by Allen Carroll](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4), Express Maps allow you to "easily make simple maps that might show a single location, a series of locations (with pop-ups), and also routes and areas. You can add labels and arrows to maps."
+
+[IMAGE]
+
+In the "Add a map window", select the option to "Create an express map."
+
+[IMAGE]
+
+You can zoom or pan to show a specific area on the map. 
+
+[IMAGE]
+
+You can also use the drawing tools to add points to your map, draw lines, add text, or insert arrows.
+
+[IMAGE]
+
+You can also add an image, title, and description to your map points.
+
+<blockquote>Check out the tutorial video <a href="https://youtu.be/tILB6fdouZ8">"An Overview of Express Maps"</a> from ArcGIS to learn more about getting started with Express Maps.</blockquote>
 
 # Publishing and Sharing Your StoryMap
 
 ## Saving Your StoryMap
 
-StoryMaps autosaves.
+StoryMaps automatically saves the project you are working on. 
 
 ## Previewing Your StoryMap
 
-## Publishing Your StoryMap
+Click on the "Preview" icon (next to Publish in the top menu bar) to see what your StoryMap will look like for a user.
 
-## Sharing Your StoryMap
+## Publishing and Sharing Your StoryMap
+
+[IMAGE]
+
+Click on the "Publish" icon (next to Preview and Design in the top menu bar) to see your options for publishing.
+
+You can choose to share the project just within your organization (requires a Grinnell ArcGIS Online account to view) or with public users.
+
+<blockquote>Check out the tutorial video <a href="https://youtu.be/20SRcf5kRB4">"Publishing and Sharing Stories with ArcGIS StoryMaps"</a> from ArcGIS to learn more.</blockquote>
 
 # Additional Resources
 
@@ -121,7 +309,13 @@ StoryMaps autosaves.
 
 - ["Planning Your Next Story Map" worksheet](https://www.esri.com/content/dam/esrisites/en-us/arcgis/products/storymaps-2019/Planning%20your%20next%20story%20map.docx) from ESRI StoryMaps
   * The worksheet is also included in this repo as a PDF.
+  
+- Hannah Wilber, ["Create a standout story with ArcGIS StoryMaps' design panel,"](https://www.esri.com/arcgis-blog/products/arcgis-storymaps/sharing-collaboration/create-a-standout-story-with-arcgis-storymaps-design-panel/) *ArcGIS Blog* (30 August 2019)
 
-- [Articles on Story Maps](https://www.esri.com/arcgis-blog/story-maps/) from the *ArcGIS Blog*
+- Esri's StoryMaps team, ["Embedding content in ArcGIS StoryMaps,"](https://storymaps.arcgis.com/stories/b299f08094ae4a18891b1d1de6118764) *ArcGIS Blog* (18 November 2019)
+
+- [Link to YouTube playlist](https://www.youtube.com/playlist?list=PLP3YDYQg16o6lLw8bQg11YI9uXyQ3Euy5) with tutorial videos from ArcGIS
+
+- [Articles on Story Maps](https://www.esri.com/arcgis-blog/story-maps/) from the ArcGIS Blog
 
 - [Nine Steps to Great Storytelling](https://storymaps.arcgis.com/stories/429bc4eed5f145109e603c9711a33407) from the ArcGIS Blog
