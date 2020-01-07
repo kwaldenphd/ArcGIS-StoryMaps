@@ -301,6 +301,7 @@ You can also add an image, title, and description to your map points.
 
 # Additional Resources
 
+## ArcGIS StoryMaps Resources
 - Greyson Harris, ["Four Ways to Tell a Story With Place,"](https://storymaps.arcgis.com/stories/88bd5855dc3847769f2c6847b15af64e) *ArcGIS Blog* (26 November 2019)
 
 - Hannah Wilber, ["Planning and outlining your story map: How to set yourself up for success,"](https://www.esri.com/arcgis-blog/products/arcgis-storymaps/sharing-collaboration/planning-and-outlining-your-story-map-how-to-set-yourself-up-for-success/) *ArcGIS Blog* (16 June 2019)
@@ -319,3 +320,57 @@ You can also add an image, title, and description to your map points.
 - [Articles on Story Maps](https://www.esri.com/arcgis-blog/story-maps/) from the ArcGIS Blog
 
 - [Nine Steps to Great Storytelling](https://storymaps.arcgis.com/stories/429bc4eed5f145109e603c9711a33407) from the ArcGIS Blog
+
+## Finding Rights-Free Media Online
+
+Think of a Google Image search as your last resort. Start with digital collections like the following:
+- [Library of Congress](https://www.loc.gov/)
+- [Digital Public Library of America](https://dp.la/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=es)
+- [Flickr](https://www.flickr.com/)
+- [World Digital Library](https://www.wdl.org/es/)
+
+If a Google Image search is your best option, look for images that have clear attribution information—when and where the photo was taken, who took the photo, etc. Photographs published by major news organizations will usually include this information in a caption or description.
+
+For this project, you will upload an image from your computer, or retrieve an online image via a URL link.
+
+### Downloading an image:
+
+Most online archival interfaces will give you the option of downloading a high-resolution image. See examples from the World Digital Library and Wikimedia Commons.
+
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Capture_2.png?raw=true" alt="Capture" /></p>
+
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Capture_6.png?raw=true" alt="Capture" /></p>
+
+### Getting an image URL:
+
+URLs that lead directly to an image have an image file type extension at the end of the URL (jpg, png, tiff, etc.)
+
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Capture_3.png?raw=true" alt="Capture" /></p>
+
+Example from: https://www.nationalgeographic.com/magazine/2018/06/kashmir-conflict-anger-indian-police/
+
+Right clicking on the image (PC) or clicking while pressing Control (Mac) and selecting View Image takes you directly to the image URL.
+
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Capture_4.png?raw=true" alt="Capture" /></p>
+
+Example from: https://www.nationalgeographic.com/content/dam/magazine/rights-exempt/2018/06/kashmir/kashmir-mother-son-blinding-unrest-gerbehaye.adapt.676.1.jpg
+
+The image URL is what you would paste as the Image and Thumbnail Links.
+
+### Citing Your Image
+
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Capture_5.png?raw=true" alt="Capture" /></p>
+
+At the end of your text, include a citation for your image source. Some digital archives, like the Library of Congress, give you a suggested citation format.
+
+Other times you will need to build the citation on your own. Elements to include in your image citation, no matter what citation format you use:
+- Photographer
+- Name of publication or website
+- Title (of image, page, or article)
+- Date of publication
+- URL to the image source
+
+Sample citation for the National Geographic image:
+
+Photograph by Cedric Gerbehaye, National Geographic. “Conflict in Kashmir Takes a Grim Toll on Unwitting Victims.” June 2018. https://www.nationalgeographic.com/magazine/2018/06/kashmir-conflict-anger-indian-police/.
