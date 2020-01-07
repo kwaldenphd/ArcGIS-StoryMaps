@@ -3,7 +3,7 @@
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 ArcGIS StoryMaps Tutorial by <a href="dlac.grinnell.edu" rel="cc:attributionURL">Katherine Walden, Digital Liberal Arts Specialist (Grinnell College)</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-This tutorial is adapted from Allen Carrol's ["Getting started with ArcGIS StoryMaps"](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4) tutorial.
+This tutorial uses image from and is adapted from Allen Carrol's ["Getting started with ArcGIS StoryMaps"](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4) tutorial.
 
 # Table of Contents
 
