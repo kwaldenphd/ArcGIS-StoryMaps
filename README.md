@@ -40,7 +40,7 @@ This tutorial is adapted from Allen Carrol's ["Getting started with ArcGIS Story
   * [ArcGIS StoryMaps Resources](#arcgis-storymaps-resources)
   * [Finding Rights-Free Media Online](#finding-rights-free-media-online)
     * [Downloading an image](#downloading-an-image)
-    * [Getting an image URL](#getting-an-image-URL]
+    * [Getting an image URL](#getting-an-image-URL)
     * [Citing Your image](#citing-your-image)
   
 # Signing in to ArcGIS StoryMaps
