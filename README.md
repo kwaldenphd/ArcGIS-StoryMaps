@@ -43,6 +43,9 @@ This tutorial is adapted from Allen Carrol's ["Getting started with ArcGIS Story
 
 # Signing in to ArcGIS StoryMaps
 
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_1.jpeg?raw=true" alt="Capture" /></p>
+
 1-Open Firefox or Chrome and navigate to <a href="https://storymaps.arcgis.com/">https://storymaps.arcgis.com/</a> in a web browser.
 
 2-Use the username and password you created after accepting the invitation to sign in. This is the same username and password you used to log in to ArcGIS Online in the last lab.
@@ -51,19 +54,22 @@ This tutorial is adapted from Allen Carrol's ["Getting started with ArcGIS Story
 
 # Creating a New ArcGIS StoryMap
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_2.jpeg?raw=true" alt="Capture" /></p>
 
 Once logged in, you are on the My Stories landing page.
 
 Click the Create new story option at the center of the page. There is also a Create new story button in the top-right hand corner of the page.
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_3.jpeg?raw=true" alt="Capture" /></p>
 
 The "Launching story builder' page opens the story builder environment.
 
 ## Select a Cover Option
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_5.jpeg?raw=true" alt="Capture" /></p>
 
 The first step in creating a StoryMap is to create a cover.
 
@@ -71,39 +77,47 @@ Use the prompts on the screen to add a title and subtitle.
 
 Add your name to the by-line.
 
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_6.jpeg?raw=true" alt="Capture" /></p>
+
 Click the "Add image" or "Add video" buttons to add multimedia content from your computer.
 
 ## Customize Your Design
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_6.jpeg?raw=true" alt="Capture" /></p>
 
 Click the "Design" button in the top menu bar (on the right-hand side next to Preview and Publish).
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_30.jpeg?raw=true" alt="Capture" /></p>
 
 The "Design" button opens up options for customizing your StoryMap's format, display, color, and font.
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_31.jpeg?raw=true" alt="Capture" /></p>
 
 Explore the four different theme options to see what might be the best fit for your project.
 
-
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_35.jpeg?raw=true" alt="Capture" /></p>
 
 In the Design panel, you can also customize the accent color and font pairings.
 
 <blockquote>Learn more about using the Design Panel in Hannah Wilber's <a href="https://www.esri.com/arcgis-blog/products/arcgis-storymaps/sharing-collaboration/create-a-standout-story-with-arcgis-storymaps-design-panel/>"Create a standout story with ArcGIS StoryMaps' design panel"</a> blog post.</blockquote>
 
-
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_32.jpeg?raw=true" alt="Capture" /></p>
 
 You can also change the cover layout. 
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_33.jpeg?raw=true" alt="Capture" /></p>
 
 Choose between the full, side-by-side, and minimal options for the cover media.
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_34.jpeg?raw=true" alt="Capture" /></p>
 
 Click on the gear icon (located in the top center of the image) to adjust the image properties.
 
@@ -121,13 +135,15 @@ Click on the plus sign below the cover section to open up a menu of options for 
 
 StoryMaps uses a block palette to combine media, text, and other kinds of interactive content.
 
-[VIDEO]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Video_1.mp4?raw=true" alt="Capture" /></p>
 
 This short video previews the different blocks available in the block palette.
 
 ## Text Options
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_7.jpeg?raw=true" alt="Capture" /></p>
 
 When editing text in one of the text block options, you can add formatting (bold, italics), insert a link to another URL, or switch to another type of text block from the palette.
 
@@ -157,7 +173,8 @@ Similar to the `<blockquote>` tag in HTML. Indents and italicizes text.
 
 ## Media Options
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_8.jpeg?raw=true" alt="Capture" /></p>
 
 When adding media content, these blocks give you additional formatting options. 
 
@@ -185,9 +202,11 @@ Upload a video from your computer or link to an online video. More details on ma
 
 ### Embed
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_27.jpeg?raw=true" alt="Capture" /></p>
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_28.jpeg?raw=true" alt="Capture" /></p>
 
 Embed content using a link or `<iframe>` embed code. 
 
@@ -205,13 +224,16 @@ A solid line separator that can help mark transitions or shifts in your StoryMap
 
 ### Sidecar
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_19.jpeg?raw=true" alt="Capture" /></p>
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_23.jpeg?raw=true" alt="Capture" /></p>
 
 A split-screen layout within your StoryMap that inclues a panel with text that scrolls and a panel with media that remains stationary. 
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_21.jpeg?raw=true" alt="Capture" /></p>
 
 You can add multiple slides to a sidecar. 
 
@@ -219,17 +241,21 @@ You can add multiple slides to a sidecar.
 
 ### Slideshow
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_24.jpeg?raw=true" alt="Capture" /></p>
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_25.jpeg?raw=true" alt="Capture" /></p>
 
 A series of slides (similar to a Power Point or Google Slides presentation) that allows users to navigate laterally through the slides. 
 
-[IMAGE]
-
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_26.jpeg?raw=true" alt="Capture" /></p>
 
 You can add multiple slides to a slideshow.
+
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Video_2.mp4?raw=true" alt="Capture" /></p>
 
 <blockquote>Learn more through the <a href="<blockquote>Learn more through the <a href="https://doc.arcgis.com/en/arcgis-storymaps/author-and-share/add-sidecars.htm">"Add slideshows"</a> page on the ArcGIS website.</blockquote>">
 
@@ -239,9 +265,11 @@ You can add multiple slides to a slideshow.
 
 As you start to create blocks, you may want to reorganize or reorder your content.
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_9.jpeg?raw=true" alt="Capture" /></p>
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_10.jpeg?raw=true" alt="Capture" /></p>
 
 The grid icon on the left-hand side of each block gives you the option to drag and drop blocks to re-order your content.
 
@@ -249,7 +277,8 @@ The grid icon on the left-hand side of each block gives you the option to drag a
 
 ## Existing ArcGIS Online Maps
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_11.jpeg?raw=true" alt="Capture" /></p>
 
 Selecting the Map block opens up the Add a map window.
 
@@ -261,19 +290,23 @@ You can also select maps others have created and shared with your organization o
 
 As [described by Allen Carroll](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4), Express Maps allow you to "easily make simple maps that might show a single location, a series of locations (with pop-ups), and also routes and areas. You can add labels and arrows to maps."
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_11.jpeg?raw=true" alt="Capture" /></p>
 
 In the "Add a map window", select the option to "Create an express map."
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_13.jpeg?raw=true" alt="Capture" /></p>
 
 You can zoom or pan to show a specific area on the map. 
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_14.jpeg?raw=true" alt="Capture" /></p>
 
 You can also use the drawing tools to add points to your map, draw lines, add text, or insert arrows.
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_16.jpeg?raw=true" alt="Capture" /></p>
 
 You can also add an image, title, and description to your map points.
 
@@ -291,9 +324,13 @@ Click on the "Preview" icon (next to Publish in the top menu bar) to see what yo
 
 ## Publishing and Sharing Your StoryMap
 
-[IMAGE]
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_6.jpeg?raw=true" alt="Capture" /></p>
 
 Click on the "Publish" icon (next to Preview and Design in the top menu bar) to see your options for publishing.
+
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="
+https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_37.jpeg?raw=true" alt="Capture" /></p>
 
 You can choose to share the project just within your organization (requires a Grinnell ArcGIS Online account to view) or with public users.
 
