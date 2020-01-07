@@ -123,7 +123,7 @@ Click on the plus sign below the cover section to open up a menu of options for 
 
 StoryMaps uses a block palette to combine media, text, and other kinds of interactive content.
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Video_1.mp4?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Capture_1.png?raw=true" alt="Capture" /></p>
 
 This short video previews the different blocks available in the block palette.
 
@@ -230,8 +230,6 @@ A series of slides (similar to a Power Point or Google Slides presentation) that
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_26.jpeg?raw=true" alt="Capture" /></p>
 
 You can add multiple slides to a slideshow.
-
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Video_2.mp4?raw=true" alt="Capture" /></p>
 
 <blockquote>Learn more through the <a href="<blockquote>Learn more through the <a href="https://doc.arcgis.com/en/arcgis-storymaps/author-and-share/add-sidecars.htm">"Add slideshows"</a> page on the ArcGIS website.</blockquote>">
 
