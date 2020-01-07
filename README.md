@@ -39,8 +39,10 @@ This tutorial is adapted from Allen Carrol's ["Getting started with ArcGIS Story
 - [Additional Resources and Next Steps](#additional-resources)
   * [ArcGIS StoryMaps Resources](#arcgis-storymaps-resources)
   * [Finding Rights-Free Media Online](#finding-rights-free-media-online)
+    * [Downloading an image](#downloading-an-image)
+    * [Getting an image URL](#getting-an-image-URL]
+    * [Citing Your image](#citing-your-image)
   
-
 # Signing in to ArcGIS StoryMaps
 
 <p align="center"><img class=" size-full wp-image-55 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-StoryMaps/blob/master/screenshots/Image_1.jpeg?raw=true" alt="Capture_2"  /></p>
@@ -372,5 +374,4 @@ Other times you will need to build the citation on your own. Elements to include
 - URL to the image source
 
 Sample citation for the National Geographic image:
-
-Photograph by Cedric Gerbehaye, National Geographic. “Conflict in Kashmir Takes a Grim Toll on Unwitting Victims.” June 2018. https://www.nationalgeographic.com/magazine/2018/06/kashmir-conflict-anger-indian-police/.
+- Photograph by Cedric Gerbehaye, National Geographic. “Conflict in Kashmir Takes a Grim Toll on Unwitting Victims.” June 2018. https://www.nationalgeographic.com/magazine/2018/06/kashmir-conflict-anger-indian-police/.
