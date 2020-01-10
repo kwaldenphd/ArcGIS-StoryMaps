@@ -231,7 +231,7 @@ A series of slides (similar to a Power Point or Google Slides presentation) that
 
 You can add multiple slides to a slideshow.
 
-<blockquote>Learn more through the <a href="<blockquote>Learn more through the <a href="https://doc.arcgis.com/en/arcgis-storymaps/author-and-share/add-sidecars.htm">"Add slideshows"</a> page on the ArcGIS website.</blockquote>
+<blockquote>Learn more through the <a href="https://doc.arcgis.com/en/arcgis-storymaps/author-and-share/add-sidecars.htm">"Add slideshows"</a> page on the ArcGIS website.</blockquote>
 
 <blockquote> What's the difference between a sidecar and a slideshow? A sidecar includes the split-screen layout with text and media. In a slide show, the background media fills the entire slide. Check out the tutorial video <a href="https://youtu.be/SRjpZote_OU">"Choosing Between Sidecar and Slideshow in ArcGIS StoryMaps"</a> from ArcGIS to learn more about these two options.</blockquote>
 
